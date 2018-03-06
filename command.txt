@@ -1,3 +1,5 @@
 git config --global color.ui true
 git config --global use.name "syunk"
 git config --global user.email "syunk@foxmail.com"
+git add "command.txt"
+git status
