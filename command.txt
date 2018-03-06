@@ -1,5 +1,16 @@
+$ 个人配置
 git config --global color.ui true
 git config --global use.name "syunk"
 git config --global user.email "syunk@foxmail.com"
+
+$ 初始化仓库
+git init
+
+$ 将文件添加到暂存区
 git add "command.txt"
+
+$查看状态
 git status
+
+$提交版本
+git commit -m "记录"
